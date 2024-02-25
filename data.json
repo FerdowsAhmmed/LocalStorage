@@ -1,0 +1,21 @@
+[
+    {
+      "id": "USA",
+      "flagImage": "https://flagcdn.com/w320/bm.png",
+      "countryName": "United States",
+      "population": 331449281
+    },
+    {
+      "id": "CHN",
+      "flagImage": "https://flagcdn.com/w320/er.png",
+      "countryName": "China",
+      "population": 1444216107
+    },
+    {
+      "id": "IND",
+      "flagImage": "https://flagcdn.com/w320/bm.png",
+      "countryName": "India",
+      "population": 1393409038
+    }
+  ]
+  
